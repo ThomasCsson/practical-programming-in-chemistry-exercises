@@ -16,9 +16,9 @@ Below is a table linking to the exercise folders for each week. Navigate to the 
 
 | Week | Topic | Exercise Link |
 | --- | --- | --- |
-| 01 | Github | [Week 01](week_01) |
-| 02 |  | Week 02 |
-| 03 |  | Week 03 |
+| 01 | Data types and paths | [Week 01](week_01) |
+| 02 | Jupyter notebooks and Python basics | [Week 02](week_02) |
+| 03 | Advanced Python: file I/O, functions, error handling, and classes. | [Week 03](week_03) |
 | 04 |  | Week 04 |
 | 05 |  | Week 05 |
 | 06 |  | Week 06 |

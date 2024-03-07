@@ -1,0 +1,3 @@
+Molecule: Methamphetamine
+Image URL: image.png
+Description: Methamphetamine is a potent central nervous system (CNS) stimulant that is mainly used as a recreational drug and less commonly as a second-line treatment for attention deficit hyperactivity disorder and obesity

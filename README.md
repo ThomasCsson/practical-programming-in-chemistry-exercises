@@ -1,7 +1,7 @@
 Practical Programming in Chemistry
 ==================================
 
-Welcome to the repository for the Practical Programming in Chemistry exercises! Those exercises offers a comprehensive and hands-on introduction to computer programming, tailored specifically for chemists and chemical engineers. With a focus on Python, this course is designed to equip you with the programming skills necessary to tackle real-world chemical tasks.
+Welcome to the repository for the Practical Programming in Chemistry exercises. Those exercises offers a comprehensive and hands-on introduction to computer programming, tailored specifically for chemists and chemical engineers. With a focus on Python, this course is designed to equip you with the programming skills necessary to tackle real-world chemical tasks.
 
 The course handout can be found on [https://schwallergroup.github.io/practical-programming-in-chemistry/](https://schwallergroup.github.io/practical-programming-in-chemistry/).
 
